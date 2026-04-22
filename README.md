@@ -44,6 +44,7 @@ This repository gathers high–quality resources including papers, frameworks, t
 
 - https://blog.cloudflare.com/introducing-agent-memory/
 - https://www.leoniemonigatti.com/blog/memory-in-ai-agents.html
+- https://www.langchain.com/blog/memory-for-agents
 
 ---
 
